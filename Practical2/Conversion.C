@@ -32,7 +32,7 @@ int main(void) {
     }
 /* TODO: Complete the expression */
 /*   numdigits = ceil(...);
-   printf("The number of digits is %d\n",numdigits);
+   printf("The number of digits is %d\n",numdigits);.
 */
    printf("inum=%d,  fnum=%f, inum in binary=%s\n",inum,fnum,binnum);
    return 0;

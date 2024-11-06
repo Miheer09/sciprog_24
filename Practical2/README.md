@@ -11,7 +11,7 @@ inum=6,  fnum=6.000000, inum in binary=110<br>
 ./sum<br>
 Sum1=7.485478<br>
 Sum2=7.485472<br>
-Difference between the two is 0.000007**
+Difference between the two is 0.000007**.
 
     
 

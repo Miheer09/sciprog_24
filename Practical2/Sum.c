@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(void) {
-/* Declare variables */
+/* Declare variables*/
    int i;
    float sum1, sum2, diff;
    
