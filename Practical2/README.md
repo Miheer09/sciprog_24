@@ -7,10 +7,10 @@
 
 ## Execute:
 **./ Convert
-inum=6,  fnum=6.000000, inum in binary=110
-./sum
-Sum1=7.485478
-Sum2=7.485472
+inum=6,  fnum=6.000000, inum in binary=110<br>
+./sum<br>
+Sum1=7.485478<br>
+Sum2=7.485472<br>
 Difference between the two is 0.000007**
 
     
