@@ -2,8 +2,8 @@
 **This Folder Contains Codes of Pratical 2**
 
 ## Compile:
-**gcc -0 Convert Conversion.c -lm
-    gcc -0 sum Sum.c -lm**
+**gcc -0 Convert Conversion.c -lm<br>
+    gcc -0 sum Sum.c -lm**<br>
 
 ## Execute:
 **./ Convert
